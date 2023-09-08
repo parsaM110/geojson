@@ -1358,7 +1358,7 @@
       "type": "Feature",
       "properties": {
         "name": "estakhr",
-         "level": 1,
+        "level": 1,
         "base_height": 0,
         "height": 40,
         "color": "grey"
@@ -1407,6 +1407,81 @@
         "type": "Polygon"
       },
       "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "farm"
+         "level": 1,
+        "base_height": 0,
+        "height": 40,
+        "color": "pink"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            51.33678744615227,
+            35.727249502435555
+          ],
+          [
+            51.337091812007145,
+            35.727249502435555
+          ],
+          [
+            51.33710752121243,
+            35.726952998685164
+          ],
+          [
+            51.33680315535753,
+            35.72694343402972
+          ],
+          [
+            51.336789409802435,
+            35.72724790833196
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 28
+    }
+  ],
+  "type": "FeatureCollection"
+}
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "farm"
+         "level": 1,
+        "base_height": 40,
+        "height": 40,
+        "color": "blue"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            51.33678744615227,
+            35.727249502435555
+          ],
+          [
+            51.337091812007145,
+            35.727249502435555
+          ],
+          [
+            51.33710752121243,
+            35.726952998685164
+          ],
+          [
+            51.33680315535753,
+            35.72694343402972
+          ],
+          [
+            51.336789409802435,
+            35.72724790833196
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 28
     }
   ],
   "type": "FeatureCollection"
