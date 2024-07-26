@@ -179,7 +179,161 @@
               "samsung"
             ],
             "starRating": 5
-        }
+        },
+        {
+            "registerDate": "2022-06-29T13:16:36.873Z",
+            "discount": 30,
+            "price": 328.12,
+            "name": "JBL Xtreme 2 Rugged/Waterproof Bluetooth Wireless Speaker - Black",
+            "category": [
+              "digital",
+              "other",
+              "speaker"
+            ],
+            "brand": "JBL",
+            "image": [
+              {
+                "_type": "image",
+                "_key": "f532d0a751b0",
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-0760c2b4f337cd918669a5a1418f9a7a337ca404-500x500-png.png",
+                  "_type": "reference"
+                }
+              },
+              {
+                "_type": "image",
+                "_key": "6d5b05cedab9",
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-2f862aa5143478e92bf1678160f6e3429e7cabf1-500x500-png.png",
+                  "_type": "reference"
+                }
+              },
+              {
+                "_type": "image",
+                "_key": "b2c86bd08453",
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-a9b6b75af804b151690c911749050adc1991dfe3-500x500-png.png",
+                  "_type": "reference"
+                }
+              }
+            ],
+            "_rev": "MIBn063RYGY6Oom8VmUr8N",
+            "details": {
+              "frequency_response": " 55Hz–20kHz",
+              "width": " 28.8 cm",
+              "connectionType": [
+                "Bluetooth"
+              ],
+              "height": "13.6 cm",
+              "depth": "13.2 cm",
+              "bluetooth": true
+            },
+            "_id": "063c1752-10b6-48c5-be61-6ff074c58640",
+            "starRating": 4,
+            "_updatedAt": "2022-06-29T13:16:46Z",
+            "_type": "product",
+            "_createdAt": "2022-06-29T13:16:46Z",
+            "isOffer": true,
+            "slug": {
+              "current": "jbl-xtreme-2-rugged-waterproof-bluetooth-wireless-speaker-black",
+              "_type": "slug"
+            }
+          },{
+            "_rev": "MIBn063RYGY6Oom8VmVMOx",
+            "_id": "56ecb57b-4b57-403b-b551-0e3dcc14ff35",
+            "starRating": 5,
+            "brand": "JBL",
+            "image": [
+              {
+                "_type": "image",
+                "_key": "284d398b92de",
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-7dcb10a31ecacb45e2d410b2eaabb5fa15a71d63-500x500-png.png",
+                  "_type": "reference"
+                }
+              },
+              {
+                "_type": "image",
+                "_key": "83ca0f3f51ed",
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-baa4ed49e9cba78e0997effa9f99f8f9787e9fcc-500x500-png.png",
+                  "_type": "reference"
+                }
+              },
+              {
+                "_key": "840dfe20458a",
+                "asset": {
+                  "_type": "reference",
+                  "_ref": "https://parsam110.github.io/images/image-ff52849e5639eeb28710e3f557589652c7652010-500x500-png.png"
+                },
+                "_type": "image"
+              },
+              {
+                "_type": "image",
+                "_key": "a15ec562f97f",
+                "asset": {
+                  "_type": "reference",
+                  "_ref": "https://parsam110.github.io/images/image-df70b3d46b175e50c130d21064e9e5031aef5c85-500x500-png.png"
+                }
+              },
+              {
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-46e10686a996159029fb715e6697b443e7b022de-500x500-png.png",
+                  "_type": "reference"
+                },
+                "_type": "image",
+                "_key": "72f674891eb9"
+              },
+              {
+                "_type": "image",
+                "_key": "60a631318bd3",
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-92ddee67f754e95c95a6aa9627b6198f6befea51-500x500-png.png",
+                  "_type": "reference"
+                }
+              },
+              {
+                "_key": "55d3fd41186e",
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-0901764df581abea57767e3c6cedf7caa9717d2c-500x500-png.png",
+                  "_type": "reference"
+                },
+                "_type": "image"
+              }
+            ],
+            "details": {
+              "bluetooth": true,
+              "frequency_response": " 65Hz – 20kHz",
+              "wireless": true,
+              "height": " 9.6 cm",
+              "connectors": [
+                "USB"
+              ],
+              "battery": "20 hours",
+              "connectionType": [
+                "Bluetooth"
+              ],
+              "depth": " 9.4 cm",
+              "width": "22.3 cm"
+            },
+            "category": [
+              "digital",
+              "other",
+              "speaker"
+            ],
+            "price": 196.87,
+            "name": "JBL Charge 5 Waterproof Bluetooth Wireless Speaker - Blue",
+            "_updatedAt": "2022-06-29T13:26:39Z",
+            "registerDate": "2022-06-29T13:26:35.244Z",
+            "isOffer": true,
+            "_type": "product",
+            "discount": 15,
+            "_createdAt": "2022-06-29T13:26:39Z",
+            "slug": {
+              "current": "jbl-charge-5-waterproof-bluetooth-wireless-speaker-blue",
+              "_type": "slug"
+            }
+          }
     ]
 },
 "__N_SSG": true
