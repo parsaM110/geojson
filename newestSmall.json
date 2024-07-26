@@ -1,0 +1,66 @@
+{
+    "pageProps": {
+      "products": [
+        {
+          "registerDate": "2022-06-29T13:16:36.873Z",
+          "discount": 30,
+          "price": 328.12,
+          "name": "JBL Xtreme 2 Rugged/Waterproof Bluetooth Wireless Speaker - Black",
+          "category": [
+            "digital",
+            "other",
+            "speaker"
+          ],
+          "brand": "JBL",
+          "image": [
+            {
+              "_type": "image",
+              "_key": "f532d0a751b0",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-0760c2b4f337cd918669a5a1418f9a7a337ca404-500x500-png.png",
+                "_type": "reference"
+              }
+            },
+            {
+              "_type": "image",
+              "_key": "6d5b05cedab9",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-2f862aa5143478e92bf1678160f6e3429e7cabf1-500x500-png.png",
+                "_type": "reference"
+              }
+            },
+            {
+              "_type": "image",
+              "_key": "b2c86bd08453",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-a9b6b75af804b151690c911749050adc1991dfe3-500x500-png.png",
+                "_type": "reference"
+              }
+            }
+          ],
+          "_rev": "MIBn063RYGY6Oom8VmUr8N",
+          "details": {
+            "frequency_response": " 55Hz–20kHz",
+            "width": " 28.8 cm",
+            "connectionType": [
+              "Bluetooth"
+            ],
+            "height": "13.6 cm",
+            "depth": "13.2 cm",
+            "bluetooth": true
+          },
+          "_id": "063c1752-10b6-48c5-be61-6ff074c58640",
+          "starRating": 4,
+          "_updatedAt": "2022-06-29T13:16:46Z",
+          "_type": "product",
+          "_createdAt": "2022-06-29T13:16:46Z",
+          "isOffer": true,
+          "slug": {
+            "current": "jbl-xtreme-2-rugged-waterproof-bluetooth-wireless-speaker-black",
+            "_type": "slug"
+          }
+        }
+    ]
+},
+"__N_SSG": true
+}
