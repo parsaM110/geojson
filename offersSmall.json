@@ -1,0 +1,186 @@
+{
+    "pageProps": {
+      "products": [
+        {
+            "_rev": "MIBn063RYGY6Oom8VjAUUl",
+            "_type": "product",
+            "category": [
+              "digital",
+              "mobile",
+              "apple"
+            ],
+            "starRating": 5,
+            "irrdiscount": 16379000,
+            "irrprice": 21690000,
+            "price": 429,
+            "_createdAt": "2022-06-05T13:51:24Z",
+            "slug": {
+              "current": "apple-iphone-11-64-gb-red",
+              "_type": "slug"
+            },
+            "registerDate": "2022-06-05T13:50:50.801Z",
+            "isOffer": true,
+            "name": "APPLE iPhone 11 - 64 GB, Red",
+            "_id": "12e98a16-8288-447b-82bb-403702366e41",
+            "_updatedAt": "2022-06-27T05:37:22Z",
+            "image": [
+              {
+                "_type": "image",
+                "_key": "024da36a1d6e",
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-36381990b976fa4fd0b4da9419f1e9a118af3ff7-530x470-png",
+                  "_type": "reference"
+                }
+              },
+              {
+                "_type": "image",
+                "_key": "a6197b0c2f2e",
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-99be638f94af8257f6651ed07009a5b7e95bfcd6-530x470-png",
+                  "_type": "reference"
+                }
+              },
+              {
+                "_type": "image",
+                "_key": "9cb3c137c842",
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-95ca6d4be1dd15ac9e6fb2ab17bdbe668ca40679-530x470-png",
+                  "_type": "reference"
+                }
+              },
+              {
+                "_type": "image",
+                "_key": "e6df376b37a7",
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-f3429ed0a61073cd1ec609bd0616427d498e9782-530x470-png",
+                  "_type": "reference"
+                }
+              }
+            ],
+            "discount": 25,
+            "details": {
+              "ram": "64GB",
+              "back_camera": "Dual 12 MP main cameras",
+              "operating_system": "iOS 13",
+              "screen": "6.1\" HD Liquid Retina touchscreen",
+              "front_camera": "12 MP front camera",
+              "battery": "5000mAh",
+              "processor": "Apple A13 Bionic processor"
+            },
+            "brand": "apple"
+          },
+          {
+            "name": "XIAOMI Redmi Note 11 - 128 GB, Graphite Gray",
+            "_updatedAt": "2022-06-27T05:35:25Z",
+            "image": [
+              {
+                "_type": "image",
+                "_key": "a18fe9ff3e52",
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-964c1ea2efa6e9a4e20aa3214f9c5a5e5f905d8a-600x532-png",
+                  "_type": "reference"
+                }
+              },
+              {
+                "_type": "image",
+                "_key": "c62de7b49bbb",
+                "asset": {
+                  "_type": "reference",
+                  "_ref": "https://parsam110.github.io/images/image-f685a29b52e70378159498f44337705aafebcd0c-530x470-png"
+                }
+              },
+              {
+                "_type": "image",
+                "_key": "6f4e599d3f31",
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-cfaca857a2805e88a602693d45895d8b0a8c4721-600x532-png",
+                  "_type": "reference"
+                }
+              }
+            ],
+            "_rev": "Op3jZcLzAyXLeLJzdL1lfF",
+            "price": 179,
+            "isOffer": true,
+            "_type": "product",
+            "irrprice": 9200000,
+            "_createdAt": "2022-06-05T14:16:19Z",
+            "details": {
+              "front_camera": "13 MP front camera",
+              "battery": "5000 mAh",
+              "processor": "2.4 GHz octa-core processor",
+              "ram": "125 GB",
+              "back_camera": "Quad 50 MP / 8 MP / 2 MP / 2 MP main cameras",
+              "operating_system": "Android 11",
+              "screen": "6.43\" Full HD+ AMOLED touchscreen"
+            },
+            "registerDate": "2022-06-05T14:16:14.931Z",
+            "discount": 10,
+            "irrdiscount": 8190000,
+            "_id": "0d467bf0-31e6-4285-ac88-a4421f9390e4",
+            "category": [
+              "digital",
+              "mobile",
+              "xiaomi"
+            ],
+            "starRating": 3,
+            "brand": "xiaomi",
+            "slug": {
+              "current": "xiaomi-redmi-note-11-128-gb-graphite-gray",
+              "_type": "slug"
+            }
+          },
+          {
+            "_rev": "ua2B64HnO6Bb4Ci1KmZGQX",
+            "_type": "product",
+            "discount": 20,
+            "irrprice": 19162000,
+            "_updatedAt": "2022-06-27T05:36:26Z",
+            "brand": "samsung",
+            "image": [
+              {
+                "_type": "image",
+                "_key": "7bbacda6d7d3",
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-07aaae963503b72815dd1f19adb946c3c68790d5-600x532-png",
+                  "_type": "reference"
+                }
+              },
+              {
+                "asset": {
+                  "_ref": "https://parsam110.github.io/images/image-597cb3869a2e2a0d1ab71b4aae1750b59732159c-530x470-png",
+                  "_type": "reference"
+                },
+                "_type": "image",
+                "_key": "22b18f4daa44"
+              }
+            ],
+            "isOffer": true,
+            "_createdAt": "2022-06-05T13:23:40Z",
+            "_id": "328ed218-cf44-4359-a988-72ff0b8a6008",
+            "slug": {
+              "current": "samsung-galaxy-a53-5g-128-gb-black",
+              "_type": "slug"
+            },
+            "registerDate": "2022-06-05T13:23:37.539Z",
+            "irrdiscount": 13650000,
+            "price": 379,
+            "name": "SAMSUNG Galaxy A53 5G - 128 GB, Black",
+            "details": {
+              "front_camera": "32 MP front camera",
+              "battery": " 5000 mAh",
+              "processor": "Exynos 1280 processor",
+              "back_camera": "Quad 64 MP / 12 MP / 5 MP / 5 MP main cameras",
+              "operating_system": "Android 12",
+              "screen": "Exynos 1280 processor"
+            },
+            "category": [
+              "digital",
+              "mobile",
+              "samsung"
+            ],
+            "starRating": 5
+          },
+    ]
+},
+"__N_SSG": true
+}

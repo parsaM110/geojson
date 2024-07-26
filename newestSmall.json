@@ -59,7 +59,346 @@
             "current": "jbl-xtreme-2-rugged-waterproof-bluetooth-wireless-speaker-black",
             "_type": "slug"
           }
-        }
+        },
+        {
+          "starRating": 5,
+          "irrprice": 50000000,
+          "_id": "08082378-0552-460f-b8ca-f532d08c5d81",
+          "category": [
+            "digital",
+            "laptop",
+            "asus",
+            ""
+          ],
+          "brand": "asus",
+          "slug": {
+            "current": "asus-zenbook-14-intel-core-i7-16gb-ram-512gb-ssd-14-ips-laptop",
+            "_type": "slug"
+          },
+          "name": "ASUS ZenBook 14 Intel Core i7 16GB RAM 512GB SSD 14\" IPS Laptop",
+          "details": {
+            "operating_system": "Microsoft Windows 10 Home 64-bit",
+            "screen": "14\" Full HD IPS Anti-Glare Screen",
+            "warranty": "ASUS 12 Month Collect & Return Warranty",
+            "ports": "USB3 l HDMI l Bluetooth",
+            "graphic": "Integrated Intel Iris Xe Graphics",
+            "processor": "Intel Core i7-1165G7 Quad-Core Processor",
+            "ram": "16GB LPDDR4X RAM",
+            "ssd": "512GB M.2 NVMe SSD"
+          },
+          "_updatedAt": "2022-06-27T05:39:57Z",
+          "_type": "product",
+          "price": 989,
+          "registerDate": "2022-06-05T07:57:27.203Z",
+          "image": [
+            {
+              "_key": "5f89f9d3e1cd",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-2e36a59b7bc77b62a80bf8fb1c6b16a2f25a8b18-759x520-png",
+                "_type": "reference"
+              },
+              "_type": "image"
+            },
+            {
+              "_type": "image",
+              "_key": "a80e00f61748",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-59f9f4c3dcbb8c257becfaffe0ba57dde0eb7fc8-710x470-png",
+                "_type": "reference"
+              }
+            },
+            {
+              "_type": "image",
+              "_key": "ebfaffbb6187",
+              "asset": {
+                "_type": "reference",
+                "_ref": "https://parsam110.github.io/images/image-6a5c3e4573851bfd1be536ec718e148455cd78ac-476x470-png"
+              }
+            }
+          ],
+          "_rev": "MIBn063RYGY6Oom8VjAmD5",
+          "_createdAt": "2022-06-05T07:57:31Z"
+        },
+        {
+          "_rev": "MIBn063RYGY6Oom8VmVMOx",
+          "_id": "56ecb57b-4b57-403b-b551-0e3dcc14ff35",
+          "starRating": 5,
+          "brand": "JBL",
+          "image": [
+            {
+              "_type": "image",
+              "_key": "284d398b92de",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-7dcb10a31ecacb45e2d410b2eaabb5fa15a71d63-500x500-png",
+                "_type": "reference"
+              }
+            },
+            {
+              "_type": "image",
+              "_key": "83ca0f3f51ed",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-baa4ed49e9cba78e0997effa9f99f8f9787e9fcc-500x500-png",
+                "_type": "reference"
+              }
+            },
+            {
+              "_key": "840dfe20458a",
+              "asset": {
+                "_type": "reference",
+                "_ref": "https://parsam110.github.io/images/image-ff52849e5639eeb28710e3f557589652c7652010-500x500-png"
+              },
+              "_type": "image"
+            },
+            {
+              "_type": "image",
+              "_key": "a15ec562f97f",
+              "asset": {
+                "_type": "reference",
+                "_ref": "https://parsam110.github.io/images/image-df70b3d46b175e50c130d21064e9e5031aef5c85-500x500-png"
+              }
+            },
+            {
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-46e10686a996159029fb715e6697b443e7b022de-500x500-png",
+                "_type": "reference"
+              },
+              "_type": "image",
+              "_key": "72f674891eb9"
+            },
+            {
+              "_type": "image",
+              "_key": "60a631318bd3",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-92ddee67f754e95c95a6aa9627b6198f6befea51-500x500-png",
+                "_type": "reference"
+              }
+            },
+            {
+              "_key": "55d3fd41186e",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-0901764df581abea57767e3c6cedf7caa9717d2c-500x500-png",
+                "_type": "reference"
+              },
+              "_type": "image"
+            }
+          ],
+          "details": {
+            "bluetooth": true,
+            "frequency_response": " 65Hz – 20kHz",
+            "wireless": true,
+            "height": " 9.6 cm",
+            "connectors": [
+              "USB"
+            ],
+            "battery": "20 hours",
+            "connectionType": [
+              "Bluetooth"
+            ],
+            "depth": " 9.4 cm",
+            "width": "22.3 cm"
+          },
+          "category": [
+            "digital",
+            "other",
+            "speaker"
+          ],
+          "price": 196.87,
+          "name": "JBL Charge 5 Waterproof Bluetooth Wireless Speaker - Blue",
+          "_updatedAt": "2022-06-29T13:26:39Z",
+          "registerDate": "2022-06-29T13:26:35.244Z",
+          "isOffer": true,
+          "_type": "product",
+          "discount": 15,
+          "_createdAt": "2022-06-29T13:26:39Z",
+          "slug": {
+            "current": "jbl-charge-5-waterproof-bluetooth-wireless-speaker-blue",
+            "_type": "slug"
+          }
+        }, 
+        {
+          "price": 65.99,
+          "_updatedAt": "2022-06-29T15:43:37Z",
+          "image": [
+            {
+              "_type": "image",
+              "_key": "403e0372d76f",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-1c6d434521b3f481ed36c4fa4ca15a132a70d7ef-500x500-png",
+                "_type": "reference"
+              }
+            },
+            {
+              "_key": "60b5e90358a2",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-bca62bfcd1f2edcb86f92411c92d78080791e71a-500x500-png",
+                "_type": "reference"
+              },
+              "_type": "image"
+            },
+            {
+              "_type": "image",
+              "_key": "850a81ec0be6",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-21eed230673597aff4b0042469adb17b8e3a6173-500x500-png",
+                "_type": "reference"
+              }
+            },
+            {
+              "_type": "image",
+              "_key": "1d708c9e6642",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-961ef606482f6624dc3e10933c02959574fe5da5-500x500-png",
+                "_type": "reference"
+              }
+            }
+          ],
+          "_createdAt": "2022-06-29T15:43:37Z",
+          "_id": "483de031-16a0-4da5-9beb-6c921b8cd2ed",
+          "slug": {
+            "current": "corsair-ironclaw-rgb-18000-dpi-optical-gaming-mouse",
+            "_type": "slug"
+          },
+          "_type": "product",
+          "name": "Corsair Ironclaw RGB 18000 DPI Optical Gaming Mouse",
+          "category": [
+            "digital",
+            "computer",
+            "mouse"
+          ],
+          "starRating": 5,
+          "_rev": "Op3jZcLzAyXLeLJzdNkfmD",
+          "details": {
+            "warranty": "2 Years Manufacturer's Warranty - Parts",
+            "height": " 1.75 cm",
+            "number_of_buttons": 7,
+            "ergonomic_design": true,
+            "width": " 0.8 cm",
+            "connectors": [
+              "USB"
+            ],
+            "depth": " 1.15 cm",
+            "bluetooth": false,
+            "connectionType": [
+              "Wired"
+            ],
+            "designed_for_gaming": true
+          },
+          "brand": "corsair",
+          "registerDate": "2022-06-29T15:43:20.875Z"
+        },
+        {
+          "_rev": "ua2B64HnO6Bb4Ci1KZoExc",
+          "_type": "product",
+          "name": "APPLE iPhone 13 - 128 GB, Midnight",
+          "slug": {
+            "current": "apple-iphone-13-128-gb-midnight",
+            "_type": "slug"
+          },
+          "registerDate": "2022-06-05T13:47:40.934Z",
+          "image": [
+            {
+              "_type": "image",
+              "_key": "af97185c6541",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-60a20cb2b1fbbb7e493893e10e9814c730fba28b-530x470-png",
+                "_type": "reference"
+              }
+            },
+            {
+              "_type": "image",
+              "_key": "5f8bc73ce08d",
+              "asset": {
+                "_type": "reference",
+                "_ref": "https://parsam110.github.io/images/image-ffbd3b56ecb0fe37a1e3f9b31faa98cec1c3abde-530x470-png"
+              }
+            },
+            {
+              "_type": "image",
+              "_key": "e3c21bb23811",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/uimage-db659ffb52d529a3dd02011c51669c4678183120-530x470-png",
+                "_type": "reference"
+              }
+            }
+          ],
+          "price": 729,
+          "_id": "17124011-248c-4a8f-a788-cea2e039b4ac",
+          "starRating": 4,
+          "irrprice": 36860000,
+          "_createdAt": "2022-06-05T13:47:49Z",
+          "details": {
+            "processor": "Apple A15 Bionic processor",
+            "back_camera": "Dual 12 MP main cameras",
+            "operating_system": "iOS 15",
+            "screen": " 6.1\" Super Retina XDR display",
+            "front_camera": "12 MP front camera"
+          },
+          "brand": "apple",
+          "category": [
+            "digital",
+            "mobile",
+            "apple"
+          ],
+          "_updatedAt": "2022-06-21T08:52:21Z"
+        },
+        {
+          "_id": "1c1da062-36bc-4578-844e-cfa13609ca63",
+          "category": [
+            "digital",
+            "laptop",
+            "dell"
+          ],
+          "image": [
+            {
+              "_key": "325e551aa77c",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-99838606d5cdad44ec04efe651142e0186006aa2-641x470-png",
+                "_type": "reference"
+              },
+              "_type": "image"
+            },
+            {
+              "_type": "image",
+              "_key": "1c50828b7b43",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-1323f3f81e8fb1597c8478d1e95d8af1338d88f3-734x409-png",
+                "_type": "reference"
+              }
+            },
+            {
+              "_type": "image",
+              "_key": "5b5a5b280c7b",
+              "asset": {
+                "_ref": "https://parsam110.github.io/images/image-f1cdc75befc3d9410c2ea794a495e9321c0f6794-725x470-png",
+                "_type": "reference"
+              }
+            }
+          ],
+          "irrprice": 53340000,
+          "_createdAt": "2022-06-05T08:34:16Z",
+          "details": {
+            "processor": "Intel Core i5-1135G7 Quad-Core Processor",
+            "ram": "8GB RAM",
+            "ssd": "512GB NVMe SSD",
+            "operating_system": "Windows 10 Professional 64bit",
+            "screen": "13.4\" WUXGA Anti-Glare Screen",
+            "warranty": "Dell 1 Year PROSupport",
+            "ports": "USB-C l Bluetooth",
+            "graphic": "Intel Iris Xe Graphics"
+          },
+          "starRating": 4,
+          "brand": "dell",
+          "_type": "product",
+          "price": 1055,
+          "_updatedAt": "2022-06-27T13:51:22Z",
+          "_rev": "Op3jZcLzAyXLeLJzdLWZoH",
+          "name": "Dell XPS 13 9310",
+          "slug": {
+            "current": "dell-xps-13-9310",
+            "_type": "slug"
+          },
+          "registerDate": "2022-06-05T08:34:09.519Z"
+        },
     ]
 },
 "__N_SSG": true
