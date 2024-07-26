@@ -28,7 +28,7 @@
                 "_type": "image",
                 "_key": "024da36a1d6e",
                 "asset": {
-                  "_ref": "https://parsam110.github.io/images/image-36381990b976fa4fd0b4da9419f1e9a118af3ff7-530x470-png",
+                  "_ref": "https://parsam110.github.io/images/image-36381990b976fa4fd0b4da9419f1e9a118af3ff7-530x470-png.png",
                   "_type": "reference"
                 }
               },
@@ -36,7 +36,7 @@
                 "_type": "image",
                 "_key": "a6197b0c2f2e",
                 "asset": {
-                  "_ref": "https://parsam110.github.io/images/image-99be638f94af8257f6651ed07009a5b7e95bfcd6-530x470-png",
+                  "_ref": "https://parsam110.github.io/images/image-99be638f94af8257f6651ed07009a5b7e95bfcd6-530x470-png.png",
                   "_type": "reference"
                 }
               },
@@ -44,7 +44,7 @@
                 "_type": "image",
                 "_key": "9cb3c137c842",
                 "asset": {
-                  "_ref": "https://parsam110.github.io/images/image-95ca6d4be1dd15ac9e6fb2ab17bdbe668ca40679-530x470-png",
+                  "_ref": "https://parsam110.github.io/images/image-95ca6d4be1dd15ac9e6fb2ab17bdbe668ca40679-530x470-png.png",
                   "_type": "reference"
                 }
               },
@@ -52,7 +52,7 @@
                 "_type": "image",
                 "_key": "e6df376b37a7",
                 "asset": {
-                  "_ref": "https://parsam110.github.io/images/image-f3429ed0a61073cd1ec609bd0616427d498e9782-530x470-png",
+                  "_ref": "https://parsam110.github.io/images/image-f3429ed0a61073cd1ec609bd0616427d498e9782-530x470-png.png",
                   "_type": "reference"
                 }
               }
@@ -68,8 +68,8 @@
               "processor": "Apple A13 Bionic processor"
             },
             "brand": "apple"
-          },
-          {
+        },
+        {
             "name": "XIAOMI Redmi Note 11 - 128 GB, Graphite Gray",
             "_updatedAt": "2022-06-27T05:35:25Z",
             "image": [
@@ -77,7 +77,7 @@
                 "_type": "image",
                 "_key": "a18fe9ff3e52",
                 "asset": {
-                  "_ref": "https://parsam110.github.io/images/image-964c1ea2efa6e9a4e20aa3214f9c5a5e5f905d8a-600x532-png",
+                  "_ref": "https://parsam110.github.io/images/image-964c1ea2efa6e9a4e20aa3214f9c5a5e5f905d8a-600x532-png.png",
                   "_type": "reference"
                 }
               },
@@ -86,14 +86,14 @@
                 "_key": "c62de7b49bbb",
                 "asset": {
                   "_type": "reference",
-                  "_ref": "https://parsam110.github.io/images/image-f685a29b52e70378159498f44337705aafebcd0c-530x470-png"
+                  "_ref": "https://parsam110.github.io/images/image-f685a29b52e70378159498f44337705aafebcd0c-530x470-png.png"
                 }
               },
               {
                 "_type": "image",
                 "_key": "6f4e599d3f31",
                 "asset": {
-                  "_ref": "https://parsam110.github.io/images/image-cfaca857a2805e88a602693d45895d8b0a8c4721-600x532-png",
+                  "_ref": "https://parsam110.github.io/images/image-cfaca857a2805e88a602693d45895d8b0a8c4721-600x532-png.png",
                   "_type": "reference"
                 }
               }
@@ -128,8 +128,8 @@
               "current": "xiaomi-redmi-note-11-128-gb-graphite-gray",
               "_type": "slug"
             }
-          },
-          { 
+        },
+        { 
             "_rev": "ua2B64HnO6Bb4Ci1KmZGQX",
             "_type": "product",
             "discount": 20,
@@ -141,13 +141,13 @@
                 "_type": "image",
                 "_key": "7bbacda6d7d3",
                 "asset": {
-                  "_ref": "https://parsam110.github.io/images/image-07aaae963503b72815dd1f19adb946c3c68790d5-600x532-png",
+                  "_ref": "https://parsam110.github.io/images/image-07aaae963503b72815dd1f19adb946c3c68790d5-600x532-png.png",
                   "_type": "reference"
                 }
               },
               {
                 "asset": {
-                  "_ref": "https://parsam110.github.io/images/image-597cb3869a2e2a0d1ab71b4aae1750b59732159c-530x470-png",
+                  "_ref": "https://parsam110.github.io/images/image-597cb3869a2e2a0d1ab71b4aae1750b59732159c-530x470-png.png",
                   "_type": "reference"
                 },
                 "_type": "image",
@@ -179,7 +179,7 @@
               "samsung"
             ],
             "starRating": 5
-          }
+        }
     ]
 },
 "__N_SSG": true
