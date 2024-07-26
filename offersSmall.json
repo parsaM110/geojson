@@ -129,7 +129,7 @@
               "_type": "slug"
             }
           },
-          {
+          { 
             "_rev": "ua2B64HnO6Bb4Ci1KmZGQX",
             "_type": "product",
             "discount": 20,
@@ -179,7 +179,7 @@
               "samsung"
             ],
             "starRating": 5
-          },
+          }
     ]
 },
 "__N_SSG": true
